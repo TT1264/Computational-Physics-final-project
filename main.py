@@ -1,0 +1,15 @@
+import webbrowser
+
+print('='*60)
+print('Computational Physics Final Project')
+print('3D Projectile Motion Simulation')
+print('='*60)
+print('\nOpen and run: projectile_3d_simulation.ipynb')
+print('Recommended: run cells section-by-section, not Run All.')
+print('\nSections:')
+print('1. Imports')
+print('2. Physics Functions')
+print('3. Default Simulation')
+print('4. Comparison')
+print('5. Animation (optional)')
+print('6. Error Analysis (optional)')
